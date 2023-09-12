@@ -32,6 +32,7 @@
 *Приложите вывод команд установленных версий каждой из программ, оформленный в Markdown.*
 ![изображение](https://github.com/Razbor/05-virt-02-iaac/assets/19568831/719422f9-e1b6-4392-bfb1-8572a1e261f3)
 ![изображение](https://github.com/Razbor/05-virt-02-iaac/assets/19568831/c03f3287-0928-4cc8-bd1e-f650fcea1a89)
+![изображение](https://github.com/Razbor/05-virt-02-iaac/assets/19568831/35b15b8e-ec3b-4b57-873d-7db44262d6c6)
 
 ## Задача 4 
 
@@ -54,5 +55,7 @@ Error: The requested URL returned error: 404:
 
 1. Скачайте с [сайта](https://app.vagrantup.com/bento/boxes/ubuntu-20.04) файл-образ "bento/ubuntu-20.04".
 2. Добавьте его в список образов Vagrant: "vagrant box add bento/ubuntu-20.04 <путь к файлу>".
+## Ответ
+![изображение](https://github.com/Razbor/05-virt-02-iaac/assets/19568831/feffeece-1ed3-424b-a12b-e176a4be7638)
 
 *Приложите скриншоты в качестве решения на эту задачу.*
